@@ -1646,7 +1646,7 @@ RotateSlash.MouseButton1Click:connect(function()
 end)
  
 local Anim = Instance.new("Animation")
-Anim.AnimationId = "rbxassetid://80676302128587"
+Anim.AnimationId = "rbxassetid://123012810361319"
 local track = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
 FlingArmsACTIVE = false
 FlingArms.MouseButton1Click:connect(function()
