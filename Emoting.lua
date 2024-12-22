@@ -1010,7 +1010,7 @@ FloatSit.MouseButton1Click:connect(function()
 end)
  
 local Anim = Instance.new("Animation")
-Anim.AnimationId = "rbxassetid://109194306969229"
+Anim.AnimationId = "rbxassetid://89327533317929"
 local track = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
 local MovingDanceACTIVE = false
 MovingDance.MouseButton1Click:connect(function()
