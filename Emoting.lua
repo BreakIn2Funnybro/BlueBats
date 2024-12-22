@@ -91,7 +91,7 @@ Credits.BackgroundColor3 = Color3.new(0, 0, 0)
 Credits.BackgroundTransparency = 1
 Credits.Size = UDim2.new(0, 426, 0, 25)
 Credits.Font = Enum.Font.SourceSansSemibold
-Credits.Text = " Bdokkx"
+Credits.Text = "evenfunnierbro"
 Credits.TextColor3 = Color3.new(1, 1, 1)
 Credits.TextSize = 17
  
